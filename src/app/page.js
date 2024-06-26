@@ -3,7 +3,6 @@ import Header from "../Components/Header";
 export default function Home() {
   return (
     <main>
-      {/* <Header /> */}
       <section className=" pt-32 ">
         <div className="max-w-md mb-8">
           <h1 className="text-6xl font-bold">
